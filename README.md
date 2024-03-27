@@ -2,7 +2,7 @@
 This project demonstrates text clustering using the unsupervised learning algorithm KMeans on a dataset of BBC news articles. The goal is to cluster the articles into different categories based on their content.
 
 ## dataset
-The dataset is the BBCNewsDataset.xlsx which has been uploaded to this repository.
+The dataset can be found here at [BBCNewsDataset.xlsx](https://github.com/Beh-naz/Text-Clustering/blob/main/BBCNewsDataset.xlsx).
 
 ## Environment Setup
 Required packages to install: openpyxl, wordcloud, matplotlib, scikit-learn, nltk.
